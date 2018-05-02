@@ -1,0 +1,16 @@
+- education:
+  degree: MSc in Applied Computer Science
+  university: Vrije Universiteit Brussel
+  time: 2011 - 2013
+  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
+- education:
+  degree: BSc in Electronics, Telecommunications and Information Technology
+  university: Technical University of Cluj-Napoca
+  time: 2005 - 2011
+  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
