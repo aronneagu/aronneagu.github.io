@@ -1,9 +1,15 @@
 - interest:
-  item: Cycling
+  item: Golang
   link:
 - interest:
-  item: Hiking
+  item: Kubernetes
   link:
 - interest:
-  item: Argentine Tango
+  item: Jenkins X
+  link:
+- interest:
+  item: CI/CD
+  link:
+- interest:
+  item: Ansible
   link:
