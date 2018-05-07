@@ -1,0 +1,17 @@
+{% if site.data.certifications %}
+<section class="section projects-section">
+
+  <h2 class="section-title"><i class="fa fa-archive"></i>Certifications</h2>
+
+  {% for certificate in site.data.certifications.certifications %}
+    <div class="item">
+
+      <span class="certificate-date">{{ certificate.date }}</span>
+
+      - <span class="certificate-title">{{ certificate.title }}</span>
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
