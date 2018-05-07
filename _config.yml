@@ -16,8 +16,14 @@ style: styles-2
 #Profile information
 name: Aron Neagu
 tagline: Devops engineer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "Don't forget to add a summary of yourself"
+pic: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: "I currently working as systems engineer for Wowcher. My tasks are related to automating the provisioning
+and configuration management of the cloud resources. I am also involved in improving the software delivery pipeline,
+and this means bringing consisteny in the way we build and deploy the applications, as well as implementing the
+practices of CI/CD. In my previous role at Optimy, I was the only system administrator for a startup in Belgium. 
+My role was again maintaining and improving the AWS infrastructure. I am thourough, have an eye for details, 
+I am a hard worked, eager to learn about new technologies, as well as an excellent team player. I am passionate about
+Linux as the LPIC-1 certification will show."
 
 #sidebar links
 email: aron.neagu@gmail.com
